@@ -1,6 +1,6 @@
 //{ Driver Code Starts
 import java.util.*;
-class Triplets{
+class find_triplet_with_zero_sum{
 	public static void main(String[] args){
 		Scanner sc=new Scanner(System.in);
 		int t=sc.nextInt();

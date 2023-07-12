@@ -1,8 +1,7 @@
 //{ Driver Code Starts
 //Initial Template for Java
 import java.io.*;
-import java.util.*;
-class GfG
+class binnary_divisible_by_3
 {
     public static void main(String args[])throws IOException
         {
